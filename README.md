@@ -1,4 +1,4 @@
-# Data Analytics & Python Developer
+# Data Analyst & Python Developer
 
 
 ## Education
